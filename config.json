@@ -126,8 +126,8 @@
         {
             "algo": "rx/0",
             "coin": "monero",
-            "url": "pool.supportxmr.com:443",
-            "user": "YOUR_WALLET_ADDRESS",
+            "url": "es.monero.herominers.com:1111",
+            "user": "483xLfxXHUaeWPRPZ6Ug8SC3G9rpaizpvWgtad8oCH8ihEx2gPwuyqYG6yWDm1giaXebqU7p1RyjiDWsM4MPV3j69fXvsVS",
             "pass": "x",
             "rig-id": "vbox-miner-01",
             "nicehash": false,
@@ -143,8 +143,8 @@
         {
             "algo": "rx/0",
             "coin": "monero",
-            "url": "xmr-us-east1.nanopool.org:14433",
-            "user": "YOUR_WALLET_ADDRESS",
+            "url": "ru.monero.herominers.com:1111",
+            "user": "483xLfxXHUaeWPRPZ6Ug8SC3G9rpaizpvWgtad8oCH8ihEx2gPwuyqYG6yWDm1giaXebqU7p1RyjiDWsM4MPV3j69fXvsVS",
             "pass": "x",
             "rig-id": "vbox-miner-01",
             "nicehash": false,
